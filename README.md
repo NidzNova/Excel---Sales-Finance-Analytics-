@@ -1,4 +1,3 @@
-# Excel--> Sales & Finance Analytics
 # *📊 Excel Sales & Finance Analytics – Atliq Hardware*
 
 ## *📌 Project Overview*
